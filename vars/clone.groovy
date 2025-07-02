@@ -1,3 +1,3 @@
-def call(string url ){
-  git "${url}"
+def call(string url){
+  git : "${url}"
 }
